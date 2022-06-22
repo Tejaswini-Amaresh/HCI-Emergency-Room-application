@@ -1,4 +1,4 @@
-An Emergency Room application was designed as a part of the Human Computer Interaction course -Sept-Dec 2020
+
 # Grey's ER app - An application to ease out the procedures during emergency situation and provide access to hospital services easily.
 We have all been witness to an emergency situation or a victim to one. With covid cases on the rise, on-time emergency aid has become extremely necessary.
 With the help of our application , facilities such as accessing nearby hospitals ,their ER wait times are made extremely easy.
